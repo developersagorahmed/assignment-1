@@ -107,8 +107,71 @@ ul.showcase-list li i{
     color: #16D887;
 }
 
+/* My plane styles */
 
+.my-plans-section{
+    width: 1141px;
+    height: 299.96px;
+    margin: auto;
+    margin-top: 130px;
+}
 
+h1.my-plans-header{
+width: 179px;
+height: 47px;
+margin: auto;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+margin-bottom: 50px;
+
+}
+.my-plans{
+display: flex;
+
+}
+
+.my-plan{
+    width: 218px;
+    height: 197px;
+    text-align: center;
+    margin-left: 50px;
+}
+h2.plan-title{
+    width: 218px;
+    height: 35px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin-bottom: 16px;
+    
+}
+
+h3.plan-description{
+    width: 221px;
+    height: 29px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    
+}
+
+.my-plan img{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 24px;
+}
 
 
 
