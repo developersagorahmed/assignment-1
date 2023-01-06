@@ -48,6 +48,10 @@ background-color: #F15B22;
 margin-left: 230px;
 border-radius: 5px;
 }
+.header-button:hover{
+    background-color: #FFFFFF;
+    color: #F15B22;
+}
 
 /* showcase style */
 
