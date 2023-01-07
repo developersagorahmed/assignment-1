@@ -110,73 +110,6 @@ ul.showcase-list li i{
     margin-right: 7px;
     color: #16D887;
 }
-
-/* My plane styles */
-
-.my-plans-section{
-    width: 1141px;
-    height: 299.96px;
-    margin: auto;
-    margin-top: 130px;
-    margin-bottom: -40px;
-}
-
-h1.my-plans-header{
-width: 179px;
-height: 47px;
-margin: auto;
-font-family: 'Work Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 40px;
-line-height: 47px;
-color: #151414;
-margin-bottom: 50px;
-
-}
-.my-plans{
-display: flex;
-
-}
-
-.my-plan{
-    width: 218px;
-    height: 197px;
-    text-align: center;
-    margin-left: 50px;
-}
-h2.plan-title{
-    width: 218px;
-    height: 35px;
-    font-family: 'Work Sans';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 23px;
-    line-height: 35px;
-    text-align: center;
-    color: #151414;
-    margin-bottom: 16px;
-    
-}
-
-h3.plan-description{
-    width: 221px;
-    height: 29px;
-    font-family: 'Work Sans';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 25px;
-    line-height: 29px;
-    text-align: center;
-    color: #737272;
-    
-}
-
-.my-plan img{
-    width: 80px;
-    height: 80px;
-    margin-bottom: 24px;
-}
 /* about me styles */
 
 .about-me-section{
@@ -278,12 +211,80 @@ hr{
     width: 50%;
 }
 
+/* My plane styles */
+
+.my-plans-section{
+    width: 1141px;
+    height: 299.96px;
+    margin: auto;
+    margin-top: 130px;
+    margin-bottom: -40px;
+}
+
+h1.my-plans-header{
+width: 179px;
+height: 47px;
+margin: auto;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+margin-bottom: 50px;
+
+}
+.my-plans{
+display: flex;
+
+}
+
+.my-plan{
+    width: 218px;
+    height: 197px;
+    text-align: center;
+    margin-left: 50px;
+}
+h2.plan-title{
+    width: 218px;
+    height: 35px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin-bottom: 16px;
+    
+}
+
+h3.plan-description{
+    width: 221px;
+    height: 29px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    
+}
+
+.my-plan img{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 24px;
+}
+
+
 /* call now style */
 .call-now{
     width: 1050px;
     height: 300px;
     margin: auto;
-    background-image: linear-gradient(to left, rgba(228, 8, 8, 0), rgb(255 145 0 / 88%)),url('../asset/watch.png');
+    background-image: linear-gradient(to left, rgba(228, 8, 8, 0), rgb(255 145 0 / 88%)),url('/asset/watch.png');
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
